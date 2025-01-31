@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/whipbaek/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/whipbaek/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/whipbaek/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0274-h-index](https://github.com/whipbaek/leetcode/tree/master/0274-h-index) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/whipbaek/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/whipbaek/leetcode/tree/master/0015-3sum) |
+| [0274-h-index](https://github.com/whipbaek/leetcode/tree/master/0274-h-index) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/whipbaek/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/whipbaek/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/whipbaek/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
