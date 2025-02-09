@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/whipbaek/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/whipbaek/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
@@ -85,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/whipbaek/leetcode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
+| [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
+| [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/whipbaek/leetcode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Design
 |  |
 | ------- |
