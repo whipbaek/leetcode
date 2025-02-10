@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/whipbaek/leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/whipbaek/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/whipbaek/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/whipbaek/leetcode/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/whipbaek/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/whipbaek/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Dynamic Programming
