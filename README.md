@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/whipbaek/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/whipbaek/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/whipbaek/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/whipbaek/leetcode/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/whipbaek/leetcode/tree/master/0274-h-index) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/whipbaek/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/whipbaek/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
 | [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/whipbaek/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whipbaek/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/whipbaek/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
