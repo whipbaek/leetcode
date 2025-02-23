@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/whipbaek/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/whipbaek/leetcode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/whipbaek/leetcode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/whipbaek/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/whipbaek/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/whipbaek/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/whipbaek/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/whipbaek/leetcode/tree/master/0054-spiral-matrix) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
 ## Prefix Sum
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/whipbaek/leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/whipbaek/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/whipbaek/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Search
