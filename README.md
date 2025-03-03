@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/whipbaek/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/whipbaek/leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/whipbaek/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/whipbaek/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/whipbaek/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/whipbaek/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/whipbaek/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/whipbaek/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/whipbaek/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/whipbaek/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/whipbaek/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/whipbaek/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
