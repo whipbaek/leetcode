@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/whipbaek/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/whipbaek/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/whipbaek/leetcode/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/whipbaek/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/whipbaek/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/whipbaek/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/whipbaek/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/whipbaek/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/whipbaek/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/whipbaek/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/whipbaek/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/whipbaek/leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
 ## Prefix Sum
@@ -164,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/whipbaek/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
