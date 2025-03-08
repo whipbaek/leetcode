@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/whipbaek/leetcode/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/whipbaek/leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
