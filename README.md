@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/whipbaek/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/whipbaek/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/whipbaek/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/whipbaek/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/whipbaek/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Dynamic Programming
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/whipbaek/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/whipbaek/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/whipbaek/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/whipbaek/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/whipbaek/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/whipbaek/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
