@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/whipbaek/leetcode/tree/master/0137-single-number-ii) |
 | [2509-minimize-xor](https://github.com/whipbaek/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/whipbaek/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/whipbaek/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/whipbaek/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/whipbaek/leetcode/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/whipbaek/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whipbaek/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/whipbaek/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/whipbaek/leetcode/tree/master/0209-minimum-size-subarray-sum) |
