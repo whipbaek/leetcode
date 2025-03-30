@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/whipbaek/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/whipbaek/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/whipbaek/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/whipbaek/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/whipbaek/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/whipbaek/leetcode/tree/master/0071-simplify-path) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/whipbaek/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/whipbaek/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Matrix
