@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/whipbaek/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/whipbaek/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/whipbaek/leetcode/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/whipbaek/leetcode/tree/master/0684-redundant-connection) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/whipbaek/leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/whipbaek/leetcode/tree/master/0684-redundant-connection) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/whipbaek/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting Sort
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/whipbaek/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/whipbaek/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/whipbaek/leetcode/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/whipbaek/leetcode/tree/master/0684-redundant-connection) |
 ## Graph
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/whipbaek/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/whipbaek/leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/whipbaek/leetcode/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/whipbaek/leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
