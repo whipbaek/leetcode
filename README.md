@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/whipbaek/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/whipbaek/leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1572-subrectangle-queries](https://github.com/whipbaek/leetcode/tree/master/1572-subrectangle-queries) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/whipbaek/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/whipbaek/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/whipbaek/leetcode/tree/master/0200-number-of-islands) |
+| [1572-subrectangle-queries](https://github.com/whipbaek/leetcode/tree/master/1572-subrectangle-queries) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
 ## Prefix Sum
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1572-subrectangle-queries](https://github.com/whipbaek/leetcode/tree/master/1572-subrectangle-queries) |
 ## Randomized
 |  |
 | ------- |
