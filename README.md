@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/whipbaek/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/whipbaek/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/whipbaek/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/whipbaek/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/whipbaek/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/whipbaek/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/whipbaek/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/whipbaek/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/whipbaek/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/whipbaek/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/whipbaek/leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/whipbaek/leetcode/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/whipbaek/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/whipbaek/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -246,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/whipbaek/leetcode/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/whipbaek/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/whipbaek/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
