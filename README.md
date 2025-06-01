@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/whipbaek/leetcode/tree/master/0137-single-number-ii) |
 | [2509-minimize-xor](https://github.com/whipbaek/leetcode/tree/master/2509-minimize-xor) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/whipbaek/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/whipbaek/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/whipbaek/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/whipbaek/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/whipbaek/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/whipbaek/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/whipbaek/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/whipbaek/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/whipbaek/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
