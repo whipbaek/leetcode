@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/whipbaek/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/whipbaek/leetcode/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/whipbaek/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/whipbaek/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Matrix
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/whipbaek/leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1572-subrectangle-queries](https://github.com/whipbaek/leetcode/tree/master/1572-subrectangle-queries) |
 ## Randomized
