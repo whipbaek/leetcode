@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/whipbaek/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/whipbaek/leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/whipbaek/leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/whipbaek/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/whipbaek/leetcode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/whipbaek/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/whipbaek/leetcode/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/whipbaek/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/whipbaek/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/whipbaek/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
