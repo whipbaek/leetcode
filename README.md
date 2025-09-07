@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/whipbaek/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/whipbaek/leetcode/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/whipbaek/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0891-score-after-flipping-matrix](https://github.com/whipbaek/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/whipbaek/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/whipbaek/leetcode/tree/master/2509-minimize-xor) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/whipbaek/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/whipbaek/leetcode/tree/master/0137-single-number-ii) |
+| [0891-score-after-flipping-matrix](https://github.com/whipbaek/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [2509-minimize-xor](https://github.com/whipbaek/leetcode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/whipbaek/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/whipbaek/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/whipbaek/leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/whipbaek/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/whipbaek/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0891-score-after-flipping-matrix](https://github.com/whipbaek/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0940-fruit-into-baskets](https://github.com/whipbaek/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1572-subrectangle-queries](https://github.com/whipbaek/leetcode/tree/master/1572-subrectangle-queries) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/whipbaek/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/whipbaek/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/whipbaek/leetcode/tree/master/0289-game-of-life) |
+| [0891-score-after-flipping-matrix](https://github.com/whipbaek/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1572-subrectangle-queries](https://github.com/whipbaek/leetcode/tree/master/1572-subrectangle-queries) |
 | [1876-map-of-highest-peak](https://github.com/whipbaek/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/whipbaek/leetcode/tree/master/2145-grid-game) |
