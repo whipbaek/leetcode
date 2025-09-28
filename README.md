@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/whipbaek/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/whipbaek/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/whipbaek/leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/whipbaek/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/whipbaek/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/whipbaek/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/whipbaek/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/whipbaek/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/whipbaek/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/whipbaek/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/whipbaek/leetcode/tree/master/0200-number-of-islands) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/whipbaek/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whipbaek/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/whipbaek/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Heap (Priority Queue)
