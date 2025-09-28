@@ -1,34 +1,21 @@
-import java.util.*;
-
-
-// n = 10,000
-// n^2 = 100,000,000
-/*
-
-boolean visited[nums.length]
-0부터 시작해서 bfs 한다.
-while(isempty){
-    node = pop;
-    for(val : nums[node]){
-        if(not visited val){
-            pop에 넣어준다.
-        }
-    }
-}
-
-*/
 class Solution {
     public boolean canJump(int[] nums) {
 
-        int goal = nums.length - 1;
-        int from = nums.length - 2;
-        boolean possible = false;
-        while(from >= 0){
-            if(from + nums[from] >= goal){
-                goal = from;
+        int len = nums.length;
+        int start = 0;
+        int end = nums[0];
+        
+        if(end >= len -1) return true;
+
+        for(int i=start+1; i<=end; i++) {
+            if(i + nums[i] > end) {
+                start = i;
+                end = i + nums[i];
+                if(end >= len -1) return true;
+                continue;
             }
-            from--;
         }
-        return goal == 0;
+
+        return false;
     }
 }
